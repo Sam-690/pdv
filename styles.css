@@ -1,0 +1,210 @@
+/* header */
+header {
+    height: 129px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: #21104A;
+}
+
+.escudo {
+    height: 122px;
+    width: 100px;
+}
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+    color: #FFFFFF;
+    margin: 20px;
+}
+
+a:hover,
+a:focus {
+    background-size: 100% 2px;
+}
+
+.menu {
+    font-family: Staatliches;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.inicio {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left: 45%;
+}
+
+.conocenos {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.quien {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.admisiones {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.contacto {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+/* banner */
+
+.instituto {
+    height: 590px;
+    width: 390px;
+    left: 25px;
+    top: 21px;
+    border-radius: nullpx;
+    float: left;
+}
+
+.pdv {
+    font-family: Acme;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 114px;
+    text-align: center;
+    color: #000000;
+}
+
+.inscribete {
+    left: 7.78%;
+    right: 80.56%;
+    top: 74.28%;
+    bottom: 20.14%;
+    font-family: Acme;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+    width: 180px;
+    height: 50px;
+    left: 83px;
+    top: 428px;
+    background: #ffffff;
+    border-radius: 60px;
+    margin-left: 80px;
+}
+
+.inscribete {
+    -webkit-transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+
+.inscribete:hover {
+    box-shadow: 0 0 40px 40px #040333 inset;
+    color: #FFFFFF;
+}
+
+.banner {
+    height: 490px;
+    width: 950px;
+    left: 250px;
+    float: right;
+}
+
+/* cards */
+
+.card {
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 100px;
+}
+
+.card-title {
+    left: 10.69%;
+    right: 75.42%;
+    top: 38.47%;
+    bottom: 58.42%;
+
+    font-family: Staatliches;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 26px;
+
+    color: #000000;
+}
+
+.card-text {
+    left: 7.5%;
+    right: 71.67%;
+    top: 43.26%;
+    bottom: 21.37%;
+
+    font-family: Staatliches;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+.primera {
+    height: 533px;
+    width: 341px;
+    left: 84px;
+    top: 54px;
+    border-radius: 40px;
+    left: 5.83%;
+    right: 70.49%;
+    top: 8.28%;
+    bottom: 9.97%;
+    float: left;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 8px 2px rgba(0, 0, 0, 0.15);
+    border-radius: 60px;
+}
+
+.segunda {
+    height: 533px;
+    width: 341px;
+    left: 84px;
+    top: 54px;
+    border-radius: 40px;
+    left: 5.83%;
+    right: 70.49%;
+    top: 8.28%;
+    bottom: 9.97%;
+    float: left;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 8px 2px rgba(0, 0, 0, 0.15);
+    border-radius: 60px;
+}
+
+.tercera {
+    height: 533px;
+    width: 341px;
+    left: 84px;
+    top: 54px;
+    border-radius: 40px;
+    left: 5.83%;
+    right: 70.49%;
+    top: 8.28%;
+    bottom: 9.97%;
+    float: left;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 8px 2px rgba(0, 0, 0, 0.15);
+    border-radius: 60px;
+}
+
