@@ -1,0 +1,125 @@
+.que {
+    width: 100%;
+    height: 100%;
+    background: #040333;
+    margin-top: 1%;
+}
+
+.formu {
+    background: #000000;
+}
+
+.titulo {
+    font-family: Staatliches;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+}
+
+.img1 {
+    float: left;
+    width: 50%;
+    padding-top: 10%;
+    padding-right: 10%;
+}
+
+.img2 {
+    float: right;
+    width: 550px;
+    height: 150px;
+    margin-top: 10%;
+}
+
+.encabezado-formu {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Staatliches;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding: 40px;
+}
+
+.form {
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+}
+
+.form {
+    font-family: Staatliches;
+}
+
+h1,
+p {
+    font-family: Staatliches;
+}
+
+.contacto2 {
+    border-radius: 2px;
+    padding: 45px 45px 20px;
+    margin-top: 50px;
+    background-color: white;
+    padding-top: 2%;
+}
+
+.contacto2 label {
+    display: block;
+    font-weight: bold;
+}
+
+.contacto2 div {
+    margin-bottom: 15px;
+}
+
+.contacto2 input[type='text'],
+.contacto2 textarea {
+    padding: 7px 6px;
+    width: 294px;
+    border: 1px solid #CED5D7;
+    resize: none;
+    box-shadow: 0 0 0 3px #EEF5F7;
+    margin: 5px 0;
+}
+
+.contacto2 input[type='text']:focus,
+.contacto2 textarea:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px #dde9ec;
+}
+
+.contacto2 input[type='submit'] {
+    border: 1px solid #CED5D7;
+    box-shadow: 0 0 0 3px #EEF5F7;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px white;
+
+    background: #e4f1f6;
+    background: -moz-linear-gradient(top, #e4f1f6 0%, #cfe6ef 100%);
+    background: -webkit-linear-gradient(top, #e4f1f6 0%, #cfe6ef 100%);
+}
+
+.contacto2 input[type='submit']:hover {
+    background: #edfcff;
+    background: -moz-linear-gradient(top, #edfcff 0%, #cfe6ef 100%);
+    background: -webkit-linear-gradient(top, #edfcff 0%, #cfe6ef 100%);
+}
+
+.contacto2 input[type='submit']:active {
+    background: #cfe6ef;
+    background: -moz-linear-gradient(top, #cfe6ef 0%, #edfcff 100%);
+    background: -webkit-linear-gradient(top, #cfe6ef 0%, #edfcff 100%);
+}
+
+.foto{
+    width: 50%;
+    height: 50%;
+    padding: 50%;
+    margin: 50%;
+}

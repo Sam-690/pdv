@@ -1,0 +1,114 @@
+.principalc {
+    position: absolute;
+    width: 85%;
+    margin-top: 6%;
+    margin-left: 10%;
+}
+
+h1 {
+    position: absolute;
+    left: 60px;
+    top: 1144px;
+    font-family: Staatliches;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    color: #000000;
+}
+
+.primero {
+    position: absolute;
+    left: 60px;
+    top: 1200px;
+    font-family: Archivo Narrow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.segundo {
+    position: absolute;
+    left: 60px;
+    top: 1350px;
+    font-family: Archivo Narrow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.tercero {
+    position: absolute;
+    left: 60px;
+    top: 1600px;
+    font-family: Archivo Narrow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.uno {
+    position: absolute;
+    left: 60px;
+    top: 1250px;
+    font-family: Archivo Narrow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.dos {
+    position: absolute;
+    left: 60px;
+    top: 1400px;
+    font-family: Archivo Narrow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.tres {
+    position: absolute;
+    left: 60px;
+    top: 1650px;
+    font-family: Archivo Narrow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.cuatro {
+    position: absolute;
+    left: 60px;
+    top: 1800px;
+    font-family: Archivo Narrow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.cinco {
+    position: absolute;
+    left: 60px;
+    top: 1850px;
+    font-family: Archivo Narrow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}

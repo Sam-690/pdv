@@ -1,0 +1,44 @@
+.que {
+    width: 100%;
+    height: 100%;
+    background: #040333;
+    margin-top: 1%;
+}
+
+.titulo {
+    font-family: Staatliches;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+}
+
+.central {
+    justify-content: center;
+    height: 100%;
+    padding-top: 3%;
+    padding-left: 3%;
+}
+
+h1, p{
+    font-family: Archivo Narrow;
+
+}
+
+h1{
+    font-weight: bold;
+}
+
+p{
+    font-size: 30px;
+}
+.texto{
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 6%;
+}
+
+.lema{
+    padding-top: 8%;
+    text-align: center;
+}

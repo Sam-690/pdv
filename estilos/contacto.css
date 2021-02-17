@@ -1,0 +1,21 @@
+.que {
+    width: 100%;
+    height: 100%;
+    background: #040333;
+    margin-top: 1%;
+}
+
+.titulo {
+    font-family: Staatliches;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+}
+
+.mapa {
+    width: 1250px;
+    height: 452px;
+    margin-left: 4%;
+    margin-right: 5%;
+}
